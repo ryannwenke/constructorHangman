@@ -1,0 +1,19 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "This is a version of Hangman that uses contructors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryannwenke/constructorHangman.git"
+  },
+  "author": "Ryann Wenke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryannwenke/constructorHangman/issues"
+  },
+  "homepage": "https://github.com/ryannwenke/constructorHangman#readme"
+}
